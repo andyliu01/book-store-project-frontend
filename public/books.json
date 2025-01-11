@@ -1,0 +1,202 @@
+[
+  {
+    "_id": 1,
+    "title": "光影交織的葡萄牙速寫之旅",
+    "description": "本書可說是一趟視覺與文化的交融之旅",
+    "category": "旅遊",
+    "trending": true,
+    "coverImage": "book-1.png",
+    "oldPrice": 120,
+    "newPrice": 105
+  },
+  {
+    "_id": 2,
+    "title": "首爾王",
+    "description": "K-POP、美妝、韓劇遊首爾一次過滿足多個願望",
+    "category": "旅遊",
+    "trending": true,
+    "coverImage": "book-2.png",
+    "oldPrice": 130,
+    "newPrice": 105
+  },
+  {
+    "_id": 3,
+    "title": "北海道旅遊全攻略",
+    "description": "北海道是日本面積最大最北端的一級行政區",
+    "category": "旅遊",
+    "trending": true,
+    "coverImage": "book-3.png",
+    "oldPrice": 110,
+    "newPrice": 100
+  },
+  {
+    "_id": 4,
+    "title": "高雄裏風景",
+    "description": "高雄捷運說走就走",
+    "category": "旅遊",
+    "trending": true,
+    "coverImage": "book-4.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  },
+  {
+    "_id": 5,
+    "title": "去沖繩自助旅行",
+    "description": "沖繩最強旅遊指南",
+    "category": "旅遊",
+    "trending": true,
+    "coverImage": "book-5.png",
+    "oldPrice": 100,
+    "newPrice": 90
+  },
+  {
+    "_id": 6,
+    "title": "時間的女兒",
+    "description": "善於由相貌判別人的善惡",
+    "category": "小說",
+    "trending": true,
+    "coverImage": "book-6.png",
+    "oldPrice": 100,
+    "newPrice": 80
+  },
+  {
+    "_id": 7,
+    "title": "終於一個人去旅行",
+    "description": "給自己安心的保證",
+    "category": "小說",
+    "trending": true,
+    "coverImage": "book-7.png",
+    "oldPrice": 100,
+    "newPrice": 75
+  },
+  {
+    "_id": 8,
+    "title": "花咲舞無法沉默",
+    "description": "超火熱日劇原作系列作",
+    "category": "小說",
+    "trending": true,
+    "coverImage": "book-8.png",
+    "oldPrice": 100,
+    "newPrice": 80
+  },
+  {
+    "_id": 9,
+    "title": "鐵之骨",
+    "description": "我們要的只是最平凡的正義",
+    "category": "小說",
+    "trending": true,
+    "coverImage": "book-9.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  },
+  {
+    "_id": 10,
+    "title": "早餐店阿姨什麼都記得住",
+    "description": "記憶力是老天賜給早餐店阿姨的超能力",
+    "category": "小說",
+    "trending": true,
+    "coverImage": "book-10.png",
+    "oldPrice": 100,
+    "newPrice": 75
+  },
+  {
+    "_id": 11,
+    "title": "100部經典歌劇",
+    "description": "動人的樂曲與華麗的舞台",
+    "category": "藝術設計",
+    "trending": true,
+    "coverImage": "book-11.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  },
+  {
+    "_id": 12,
+    "title": "記號",
+    "description": "記號是組織、品牌、產品或活動的門面",
+    "category": "藝術設計",
+    "trending": true,
+    "coverImage": "book-12.png",
+    "oldPrice": 100,
+    "newPrice": 80
+  },
+  {
+    "_id": 13,
+    "title": "我的塗鴉超萌力",
+    "description": "人氣插畫家的塗鴉寶典",
+    "category": "藝術設計",
+    "trending": true,
+    "coverImage": "book-13.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  },
+  {
+    "_id": 14,
+    "title": "攝影速成教科書",
+    "description": "拍出比較漂亮與動人的相片",
+    "category": "藝術設計",
+    "trending": true,
+    "coverImage": "book-14.png",
+    "oldPrice": 100,
+    "newPrice": 80
+  },
+  {
+    "_id": 15,
+    "title": "最完美住宅照明",
+    "description": "打造身心靈都放鬆的完美住宅照明",
+    "category": "藝術設計",
+    "trending": true,
+    "coverImage": "book-15.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  },
+  {
+    "_id": 16,
+    "title": "NVIDIA輝達之道",
+    "description": "三位充滿熱情的工程師攜手創立輝達",
+    "category": "商業財經",
+    "trending": true,
+    "coverImage": "book-16.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  },
+  {
+    "_id": 17,
+    "title": "懂錢滾錢",
+    "description": "理財就是重複做對的事",
+    "category": "商業財經",
+    "trending": true,
+    "coverImage": "book-17.png",
+    "oldPrice": 100,
+    "newPrice": 80
+  },
+  {
+    "_id": 18,
+    "title": "長勝",
+    "description": "為讀者解析這些問題背後的底層邏輯",
+    "category": "商業財經",
+    "trending": true,
+    "coverImage": "book-18.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  },
+  {
+    "_id": 19,
+    "title": "漫步華爾街",
+    "description": "幫助讀者找出最能長期累積財富的最佳策略",
+    "category": "商業財經",
+    "trending": true,
+    "coverImage": "book-19.png",
+    "oldPrice": 100,
+    "newPrice": 80
+  },
+  {
+    "_id": 20,
+    "title": "360度全方位領導",
+    "description": "從組織中的任何職位發展你的影響力",
+    "category": "商業財經",
+    "trending": true,
+    "coverImage": "book-20.png",
+    "oldPrice": 100,
+    "newPrice": 85
+  }
+]
